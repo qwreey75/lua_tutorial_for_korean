@@ -2,11 +2,11 @@
 ###### 부제 : if 를 대신하는 연산자들 [샘플]
 ###### 작성 ; Qwreey | 작성일 : 2021 1/11 
 ---
-
-1. [or 은 무엇인가](#what_is_or)
-
+주요 목차 :
+ - [and 은 무엇인가](#what_is_and)
+ - [or 은 무엇인가](#what_is_or)
 ---
-### and 란?
+### and 란? <a name="what_is_and"></a>
 and 는 중요한 논리 연산자중 하나로써 lua 에서는 if 만큼이나 많이 쓰이는 연산자 입니다 
 
 and 는 앞에 값과 뒤에 값을 주었을 때, 두 값이 모두 nil,false[참조1] 이 아니라면 뒤에값을 반환합니다 그렇지 않으면 nil 또는 false 을 반환합니다 
@@ -66,3 +66,17 @@ print(false or false) -- false
 print(nil or "Hello world") -- 'Hello world'
 print("Cookie" or nil) -- 'Cookie'
 ```
+<!-- 이거는 그냥 접을 수 있는 내용을 담기 위한것 -->
+<details>
+<summary>출력(output) > </summary>
+<div markdown="1">
+
+> Info : Lua 5.3.5
+> 1
+> nil
+> false
+> Hello world
+> Cookie
+
+</div>
+</details>
