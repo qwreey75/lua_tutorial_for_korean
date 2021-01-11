@@ -1,5 +1,6 @@
 
 이 페이지는 모든 페이지의 기초가 되는 템플릿으로, 문서가 아닙니다
+
 git 페이지에서 이 페이지의 소스코드를 볼 수 있습니다
 [files.MarkDown_Template.md](https://raw.githubusercontent.com/qwreey75/lua_tutorial_for_korean/main/files/MarkDown_Template.md "Jump to source code")
 
@@ -8,7 +9,6 @@ git 페이지에서 이 페이지의 소스코드를 볼 수 있습니다
 git clone https://github.com/qwreey75/lua_tutorial_for_korean.wiki.git
 ```
 을 사용하여 이 위키를 복사한 후 `MarkDown 템플릿 페이지.md` 를 열어 소스코드를 확인 할 수 있습니다
-
 
 ###### 부제 : 부제 명
 ###### 작성 : 작성자명 | 최근 수정 : 2021 1/11 5:10
