@@ -1,3 +1,5 @@
+편집, 추가 요청사항이 있다면, 이 프로젝트에 기여하고 싶다면 언제나 [Issues](https://github.com/qwreey75/lua_tutorial_for_korean/issues/new "새로운 이슈를 만듭니다") 를 만들어 주세요!
+
 ## and, or 그리고 삼항연산자는 무엇인가
 ###### 부제 : if 를 대신하는 연산자들 [샘플]
 ###### 작성 ; Qwreey | 작성일 : 2021 1/11 
