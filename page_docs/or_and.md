@@ -71,12 +71,12 @@ print("Cookie" or nil) -- 'Cookie'
 <summary>출력(output) > </summary>
 <div markdown="1">
 
-> Info : Lua 5.3.5
-> 1
-> nil
-> false
-> Hello world
-> Cookie
+> Info : Lua 5.3.5<br/>
+> 1<br/>
+> nil<br/>
+> false<br/>
+> Hello world<br/>
+> Cookie<br/>
 
 </div>
 </details>
