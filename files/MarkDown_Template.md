@@ -1,7 +1,7 @@
 
 이 페이지는 모든 페이지의 기초가 되는 템플릿으로, 문서가 아닙니다
 git 페이지에서 이 페이지의 소스코드를 볼 수 있습니다
-[files.MarkDown_Template.md]()
+[files.MarkDown_Template.md](https://raw.githubusercontent.com/qwreey75/lua_tutorial_for_korean/main/files/MarkDown_Template.md "Jump to source code")
 
 다른 방법으로써는 명령어
 ```bat
