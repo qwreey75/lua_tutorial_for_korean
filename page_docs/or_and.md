@@ -6,8 +6,8 @@
 주요 목차 :
  - [and 은 무엇인가](#what_is_and)
  - [or 은 무엇인가](#what_is_or)
- - [and 와 or 의 진짜 위력은 같이 사용할때 배가된다](#a_and_b_or_c)
- - [연속된 논리 연산자들](#chain_and_or)
+ - [삼항 연산자는 무엇인가](#a_and_b_or_c)
+ - [연속된 논리 연산자들을 읽어보자](#chain_and_or)
 
 ---
 ### and 란? <a name="what_is_and"></a>
