@@ -5,7 +5,7 @@
 이 위키는 아직 준비중이며 나중에 더 많은 정보가 추가됩니다!
 
 이 위키의 모든 글
-+ [and 연산자와 or, 그리고 그 활용](https://github.com/qwreey75/lua_tutorial_for_korean/blob/main/page_docs/or_and.md "페이지로 이동합니다")
++ [and, or 그리고 삼항연산자는 무엇인가](https://github.com/qwreey75/lua_tutorial_for_korean/blob/main/page_docs/or_and.md "페이지로 이동합니다")
 
 ---
 이 페이지는 github 에 의해 유지되며 StackEdit(MarkDown 에디터) 로 생성되었습니다
